@@ -2,7 +2,7 @@
 /*
 Plugin Name: Simple Quick Memo
 Description: ダッシュボードに自分専用のメモを残せます。
-Version: 1.2
+Version: 1.4
 Tested up to: 6.9.4
 Requires PHP: 8.3.23
 Author: masato shibuya(Image-box Co., Ltd.)
@@ -106,9 +106,9 @@ function sqm_render_memo_widget() {
 require_once __DIR__ . '/plugin-update-checker/plugin-update-checker.php';
 
 $updateChecker = \YahnisElsts\PluginUpdateChecker\v5\PucFactory::buildUpdateChecker(
-    'https://github.com/ms13th-cyber/wp-smart-checklist/',
+    'https://github.com/ms13th-cyber/simple-quick-memo/',
     __FILE__,
-    'wp-smart-checklist'
+    'simple-quick-memo'
 );
 
 $updateChecker->setBranch('main');
