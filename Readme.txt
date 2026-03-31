@@ -3,7 +3,7 @@ Contributors: masato shibuya(Image-box Co., Ltd.)
 Tags: dashboard, memo, todo, admin
 Requires at least: 5.0
 Tested up to: 6.4
-Stable tag: 1.0.0
+Stable tag: 1.2
 License: GPLv2 or later
 
 ダッシュボードに、自分専用のシンプルなメモ帳を追加します。
