@@ -2,8 +2,8 @@
 /*
 Plugin Name: Simple Quick Memo
 Description: ダッシュボードに自分専用のメモを残せます。
-Version: 1.4
-Tested up to: 6.9.4
+Version: 1.4.1
+Tested up to: 7.0.0
 Requires PHP: 8.3.23
 Author: masato shibuya(Image-box Co., Ltd.)
 */

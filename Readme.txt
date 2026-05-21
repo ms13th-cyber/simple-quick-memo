@@ -2,8 +2,8 @@
 Contributors: masato shibuya(Image-box Co., Ltd.)
 Tags: dashboard, memo, todo, admin
 Requires at least: 5.0
-Tested up to: 6.4
-Stable tag: 1.4
+Tested up to: 7.0.0
+Stable tag: 1.4.1
 License: GPLv2 or later
 
 ダッシュボードに、自分専用のシンプルなメモ帳を追加します。
@@ -35,6 +35,9 @@ WordPressの標準的な `options` テーブルに保存されます。
 1. ダッシュボードに表示されたクイックメモの様子。
 
 == Changelog ==
+
+= 1.4.1 =
+* Wordpress7.0.0での動作確認。
 
 = 1.4 =
 * 軽微な修正。
